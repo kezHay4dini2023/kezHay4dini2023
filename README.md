@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kezrie Hayudini</h1>
 <h3 align="center">A passionate Hardware Developer, an aspiring Data Analyst from the Philippines.</h3>
 
-- 🔭 I’m currently working on [kaggle competition (Predicting Stellar Class)](https://www.kaggle.com/competitions/playground-series-s6e6/overview)
+- 🔭 I’m currently working on [kaggle competition (Predicting Student Health Risk)](https://www.kaggle.com/competitions/playground-series-s6e7/data?select=train.csv) Start: July 4, 2026 
 
 - 🌱 I’m currently learning **Reactjs, Khan Academy Statistics and Probability**
 
-- 💬 Ask me about **environmental sensor probes, and environmental systems**
+- 💬 Ask me about **environmental sensor probes calibration, and environmental system architecture**
 
 - 📫 How to reach me **kezrie01@gmail.com**
 
